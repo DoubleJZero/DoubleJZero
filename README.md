@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Skills
-![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=F7DF1E) ![spring boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=F7DF1E)
+![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=F7DF1E) ![spring boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springBoot&logoColor=F7DF1E) ![java](https://img.shields.io/badge/Java-FF7800?style=for-the-badge&logo=java&logoColor=F7DF1E)
 
 ## Stats
 

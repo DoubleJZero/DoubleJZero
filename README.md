@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleJZero&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=JandB)](https://solved.ac/JandB)
 
-![alt text](https://github.com/DoubleJZero/DoubleJZero/blob/main/screenshot_2024-02-17_155345.jpg?raw=true)
+![alt text](https://github.com/DoubleJZero/DoubleJZero/blob/main/screenshot_2024-02-17_155345.png?raw=true)
